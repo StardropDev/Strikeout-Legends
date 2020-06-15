@@ -2,7 +2,7 @@
 ### Instituto Politécnico de Bragança
 #### Design de Jogos Digitais
 **Developed by:**
-- André Fernandes (arte)
+- André Fernandes (art)
 - Miguel Vasconcelos (design)
 - Tiago Barracha (developer)
 
