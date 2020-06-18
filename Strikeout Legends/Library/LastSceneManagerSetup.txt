@@ -1,0 +1,13 @@
+sceneSetups:
+- path: Assets/Resources/Scenes/Test Scenes/0 - Load Managers.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
+- path: Assets/Resources/Scenes/Test Scenes/1 - Login.unity
+  isLoaded: 1
+  isActive: 0
+  isSubScene: 0
+- path: Assets/Resources/Scenes/Test Scenes/2 - Main Menu.unity
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
